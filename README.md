@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MAXEMILIAN1
+- 👋 Hi, I’m @AneishaPorter
 - 👀 I’m interested in F1.
 - 🌱 I’m currently studying Computer Science with Artificial Intelligence and I have just finished my first year.
 - 💞️ I’m looking to collaborate on small projects to build my protfolio.
